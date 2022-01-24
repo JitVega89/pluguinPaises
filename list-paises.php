@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Países
-Plugin URI: localhost
+Plugin URI: https://github.com/JitVega89/pluguinPaises
 Description: muesta un listado de paises
 Version: 1
 Author: Gabriel Ramos
